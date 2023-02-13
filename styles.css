@@ -1,1 +1,10 @@
 /* your code */
+table {
+    /* collapsed, because the bottom shadow on thead tr is hidden otherwise */
+    border-collapse: collapse;
+    margin:10px;
+}
+
+thead {
+	background-color: blue;
+}
